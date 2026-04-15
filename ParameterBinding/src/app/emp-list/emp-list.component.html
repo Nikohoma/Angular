@@ -1,0 +1,14 @@
+<h2>Employee List</h2>
+
+<div class="container">
+  <ul>
+    @for(e of emps; track e.id)
+    {
+    <li>
+      <a [routerLink]="['/emp', e.id]">
+        {{e.name}}
+      </a>
+    </li>
+    }
+  </ul>
+</div>

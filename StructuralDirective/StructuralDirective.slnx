@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="StructuralDirective.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

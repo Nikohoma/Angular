@@ -1,0 +1,57 @@
+<!--<div class="container">
+  <h2 class="bg-primary text-white text-center" *ngIf ="isHidden">We welcome you!</h2>
+  <button (click)="isHidden = !isHidden">Hide/Show</button>
+</div>-->
+
+
+@if(isHidden){
+<h3 class="bg-success text-white text-center w-50 mx-auto">Welcome!</h3>
+}
+@else{
+<h3 class="bg-danger text-white text-center w-50 mx-auto">Not Welcome!</h3>
+}
+
+<button (click)="isHidden = !isHidden" class="btn btn-outline-danger d-block mx-auto">Toggle</button>
+
+<div class="container">
+  <h2 class="text-center bg-secondary text-white my-3 w-50 mx-auto">Product List</h2>
+  <ul>
+    @for(p of products;track p)
+    {
+    <li class="text text-white">{{p}}</li>
+    }
+  </ul>
+</div>
+
+<!--<div class="container">
+  <h2>Employee List</h2>
+  <ul>
+    @for(e of emps;track e)
+    {
+    <li>Id : {{e.eid}} , Name : {{e.ename}} , Salary : {{e.salary}}</li>
+    }
+  </ul>
+</div>-->
+
+<div class="container">
+  <h1 class="text bg-success text-white text-center mt-5 my-3">ngFor Structural Directive</h1>
+  <h2 class="text text-center text-decoration-underline text-white">Employee List</h2>
+  <table class="table table-dark table-striped-columns table-hover">
+    <thead>
+      <tr>
+        <td>Id</td>
+        <td>Name</td>
+        <td>Salary</td>
+      </tr>
+    </thead>
+    <tbody>
+      @for(e of emps; track e){
+      <tr>
+        <td>{{e.eid}}</td>
+        <td>{{e.ename}}</td>
+        <td>{{e.salary}}</td>
+      </tr>
+      }
+    </tbody>
+  </table>
+</div>

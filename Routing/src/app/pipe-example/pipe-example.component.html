@@ -1,0 +1,14 @@
+
+
+<div class="container">
+  <h2 class="bg-warning text-white text-center mt-5">Built In Pipes</h2>
+  <ul>
+    <li>Course Name : {{course_name|titlecase}}</li>
+    <li>Start Date : {{start_date|date:"medium"}}</li>
+    <li>Course Fee : {{course_fee|currency:"INR"}}</li>
+    <li>Marks Percentage : {{marks_percent|percent}}</li>
+    <li>Course Description : {{course_description|slice:0:7}}</li>
+    <li>Student Details : {{student_details|json}}</li>
+    <li>Student University : {{student_details.University}}</li>
+  </ul>
+</div>

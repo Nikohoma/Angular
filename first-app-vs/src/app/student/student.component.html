@@ -1,0 +1,19 @@
+<h2>Student Information</h2>
+<h2>Student Name : {{student_name}}</h2> <!--Interpolation binding-->
+<h2>20+30 = {{20+30}}</h2>
+<img src="{{image_path}}" class="my-img1">
+
+<h1>Property Binding</h1>
+
+<br><h2>Student Name : <input [value]="student_name"></h2><br/>
+
+<img [src]="image_path" class="my-img">
+
+<br>
+<button (click)="welcome()">Click This!</button>
+<br />
+
+<h1>Two Way Data Binding</h1>
+<input [(ngModel)] = 'student_name' class="input-box">   <!--Need to import formsmodule in app.module.ts-->
+<h2>Welcome {{student_name}}</h2>
+

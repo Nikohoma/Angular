@@ -1,0 +1,22 @@
+h2 {
+  text-align: center;
+  color: darkkhaki;
+  background-color: bisque
+}
+h1
+{
+    text-align:center;
+    background-color:brown
+}
+.my-img {
+  margin: 0 auto;
+  width: 200px;
+  height: 100px;
+  display: block;
+}
+.my-img1 {
+  margin : 0 auto;
+  width: 200px;
+  height: 100px;
+  display: block;
+}

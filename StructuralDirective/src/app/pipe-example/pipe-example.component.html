@@ -1,0 +1,11 @@
+<div class="container">
+  <ul>
+    @for(p of players; track p)
+    {
+    <!--<li>Id : {{p.pid}} | Name : {{p.pname|titlecase}} | Country : {{p.pcountry|uppercase}} | Dob : {{p.dob|date}}</li>-->
+    <!--<li>Id : {{p.pid}} | Name : {{p.pname|titlecase}} | Country : {{p.pcountry|uppercase}} | Dob : {{p.dob|date:"full"}}</li>-->
+    <!--<li>Id : {{p.pid}} | Name : {{p.pname|titlecase}} | Country : {{p.pcountry|uppercase}} | Dob : {{p.dob|date:"short"}}</li>-->
+    <li>Id : {{p.pid}} | Name : {{p.pname|titlecase}} | Country : {{p.pcountry|uppercase}} | Date of Birth : {{p.dob|date:"shortDate"}} | Time of Birth : {{p.dob|date:"shortTime"}}</li>
+    }
+  </ul>
+</div>

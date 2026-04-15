@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="first-app-vs.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

@@ -1,0 +1,26 @@
+<div class="container">
+  <h1 class="text-center text-white bg-primary">Exercise</h1>
+</div>
+
+<h2 class="text-center text-white text-decoration-underline">Empty List</h2>
+@if(emptylist.length== 0){
+<h4 class="text-center text-white my-5">No Product in List</h4>
+}
+
+<div class="container">
+  <h2 class="text-center text-white text-decoration-underline">Non Empty List</h2>
+  @for(p of productList;track p){
+  <ul>
+    @switch(p.pcategory)
+    {
+    @case('Electronics'){
+    <li class="bg-primary">Id: {{p.pid}}, Name: {{p.pname}}, Price: {{p.pprice}}, Category: {{p.pcategory}}</li>}
+    @case('Home Decor'){
+    <li class="bg-danger">Id: {{p.pid}}, Name: {{p.pname}}, Price: {{p.pprice}}, Category: {{p.pcategory}}</li>}
+    @default{
+    <li class="bg-warning">
+      Id: {{p.pid}}, Name: {{p.pname}}, Price: {{p.pprice}}, Category: {{p.pcategory}}li>}
+      }
+  </ul>
+  }
+</div>

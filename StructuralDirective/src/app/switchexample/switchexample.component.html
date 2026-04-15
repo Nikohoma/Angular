@@ -1,0 +1,45 @@
+<h1 class="text text-center bg-success text-white my-5">ngSwitch Structural Directive</h1>
+
+<div class="container">
+  <h3 class="text bg-success text-white text-center w-50 mx-auto">Player List</h3>
+
+  <ul *ngFor="let p of players" [ngSwitch]="p.pcountry">
+
+    <li *ngSwitchCase="'India'" class="bg-primary text-white">
+      Player Id : {{p.pid}} , Name : {{p.pname}} ,  Country : {{p.pcountry}}
+    </li>
+    <li *ngSwitchCase="'Australia'" class="bg-warning text-white">
+      Player Id : {{p.pid}} , Name : {{p.pname}} ,  Country : {{p.pcountry}}
+    </li>
+    <li *ngSwitchDefault class="bg-danger text-white">
+      Player Id : {{p.pid}} , Name : {{p.pname}} ,  Country : {{p.pcountry}}
+    </li>
+
+  </ul>
+</div>
+
+<!--                           OR                               -->
+
+<div class="container">
+  <h3 class="text bg-success text-white text-center w-50 mx-auto mt-5">Player List (C# syntax)</h3>
+  @for(p of players;track p.pid)
+  {
+  <ul>
+    @switch(p.pcountry)
+    {
+    @case('India')
+    {
+    <li class="bg-primary text-white"> Player Id : {{p.pid}} , Name : {{p.pname}} ,  Country : {{p.pcountry}}</li>
+    }
+    @case('Australia')
+    {
+    <li class="bg-warning text-white"> Player Id : {{p.pid}} , Name : {{p.pname}} ,  Country : {{p.pcountry}}</li>
+    }
+    @default
+    {
+    <li class="bg-danger text-white">Player Id : {{p.pid}} , Name : {{p.pname}} ,  Country : {{p.pcountry}}</li>
+    }
+    }
+  </ul>
+  }
+</div>

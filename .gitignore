@@ -1,0 +1,69 @@
+# Node modules
+/node_modules
+
+# Angular build output
+/dist
+/tmp
+/out-tsc
+
+# Angular cache
+/.angular
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# IDEs and editors
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Angular environment files (optional if sensitive)
+src/environments/*.ts
+
+# Compiled output
+*.js
+*.js.map
+
+# Coverage directory
+/coverage
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Firebase (if used)
+.firebase/
+.firebaserc
+
+# Optional lock files (keep ONE usually)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
