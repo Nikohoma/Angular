@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\pipes\\src\\app\\bonus.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|solutionrelative:src\\app\\bonus.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\pipes\\src\\app\\exercise\\exercise.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|solutionrelative:src\\app\\exercise\\exercise.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\pipes\\src\\app\\exercise\\exercise.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|solutionrelative:src\\app\\exercise\\exercise.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\pipes\\src\\app\\service-example\\service-example.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|solutionrelative:src\\app\\service-example\\service-example.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\pipes\\src\\app\\service-example\\service-example.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|solutionrelative:src\\app\\service-example\\service-example.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\pipes\\src\\app\\welcome.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|solutionrelative:src\\app\\welcome.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\pipes\\src\\app\\nav\\nav.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|solutionrelative:src\\app\\nav\\nav.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\pipes\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AEC13128-BEE2-458D-2604-5179239CF0DE}|Pipes.esproj|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "service-example.component.html",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\service-example\\service-example.component.html",
+              "RelativeDocumentMoniker": "src\\app\\service-example\\service-example.component.html",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\service-example\\service-example.component.html",
+              "RelativeToolTip": "src\\app\\service-example\\service-example.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-16T09:52:54.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exercise.component.html",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\exercise\\exercise.component.html",
+              "RelativeDocumentMoniker": "src\\app\\exercise\\exercise.component.html",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\exercise\\exercise.component.html",
+              "RelativeToolTip": "src\\app\\exercise\\exercise.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-16T09:52:20.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exercise.component.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\exercise\\exercise.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\exercise\\exercise.component.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\exercise\\exercise.component.ts",
+              "RelativeToolTip": "src\\app\\exercise\\exercise.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-16T09:46:02.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bonus.service.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\bonus.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\bonus.service.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\bonus.service.ts",
+              "RelativeToolTip": "src\\app\\bonus.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-16T09:46:24.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "welcome.service.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\welcome.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\welcome.service.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\welcome.service.ts",
+              "RelativeToolTip": "src\\app\\welcome.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-16T09:07:18.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "service-example.component.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\service-example\\service-example.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\service-example\\service-example.component.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\service-example\\service-example.component.ts",
+              "RelativeToolTip": "src\\app\\service-example\\service-example.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-16T09:20:12.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nav.component.html",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\nav\\nav.component.html",
+              "RelativeDocumentMoniker": "src\\app\\nav\\nav.component.html",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\nav\\nav.component.html",
+              "RelativeToolTip": "src\\app\\nav\\nav.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-16T09:45:37.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\Pipes\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-16T09:12:17.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+
+<h2 class="text-center text-danger mb-5">Custom Pipe 2</h2>
+
+<div class="container">
+  <table class="table table-dark table-hover table-sm">
+    <thead>
+      <tr>
+        <td class="text-center">Byte Value</td>
+        <td class="text-center bg-primary">In KBs</td>
+        <td class="text-center bg-success">In MBs</td>
+        <td class="text-center bg-danger">In GBs</td>
+      </tr>
+    </thead>
+    <tbody class="table-group-divider">
+      <tr>
+        <td class="text-center">{{byteData1}}</td>
+        <td class="text-center bg-primary">{{byteData1|data}}</td>
+        <td class="text-center bg-success">{{byteData1|data:'MB'}}</td>
+        <td class="text-center bg-danger">{{byteData1|data:'GB'}}</td>
+      </tr>
+      <tr>
+        <td class="text-center">{{byteData2}}</td>
+        <td class="text-center bg-primary">{{byteData2|data}}</td>
+        <td class="text-center bg-success">{{byteData2|data:'MB'}}</td>
+        <td class="text-center bg-danger">{{byteData2|data:'GB'}}</td>
+      </tr>
+      <tr>
+        <td class="text-center">{{byteData3}}</td>
+        <td class="text-center bg-primary">{{byteData3|data}}</td>
+        <td class="text-center bg-success">{{byteData3|data:'MB'}}</td>
+        <td class="text-center bg-danger">{{byteData3|data:'GB'}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

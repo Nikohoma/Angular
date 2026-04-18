@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Pipes.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

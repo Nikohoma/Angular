@@ -1,0 +1,8 @@
+
+
+<div class="input-group mb-3">
+  <input type="text" class="form-control" placeholder="Enter your Salary" aria-label="Recipient’s username" aria-describedby="button-addon2" #salary>
+  <button class="btn btn-outline-secondary" type="button" id="button-addon2" (click)="getBonus(salary.value)">Calculate</button>
+</div>
+
+<h4 class="text-center">Your Bonus : {{calculatedBonus}}</h4>
