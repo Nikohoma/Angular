@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ComponentCommunication.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

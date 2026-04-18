@@ -1,0 +1,9 @@
+<h3>States</h3>
+
+<ul *ngIf="country">
+  <li *ngFor="let s of getStates()">
+    {{ s }}
+  </li>
+</ul>
+
+<p *ngIf="!country">Please select a country</p>

@@ -1,0 +1,8 @@
+<h2>Select Country</h2>
+
+<select [(ngModel)]="selectedCountry">
+  <option value="">--Select--</option>
+  <option *ngFor="let c of countries" [value]="c">{{ c }}</option>
+</select>
+
+<app-childcomponent [country]="selectedCountry"></app-childcomponent>
