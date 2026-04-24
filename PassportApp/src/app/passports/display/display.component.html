@@ -1,0 +1,30 @@
+<!--<pre>{{ srv.passportList | json }}</pre>-->
+
+<table class="table table-hover table-success table-bordered">
+  <thead>
+    <tr>
+      <th>PassPort Id</th>
+      <th>Passport Number</th>
+      <th>Holder Name</th>
+      <th>Expiry</th>
+      <th>PPO Code</th>
+      <th>Edit</th>
+      <th>Delete</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let p of srv.passportList">
+      <td>{{p.Id}}</td>
+      <td>{{p.PassportNumber}}</td>
+      <td>{{p.HolderName}}</td>
+      <td>{{p.ExpiryDate}}</td>
+      <td>{{p.PPOCode}}</td>
+      <td (click)="fillForm(p)"><i class="bi bi-pencil-square"></i></td>
+      <td>
+        <i class="bi bi-trash text-danger"
+           style="cursor:pointer"
+           (click)="onDelete(p.Id)"></i>
+      </td>
+    </tr>
+  </tbody>
+</table>

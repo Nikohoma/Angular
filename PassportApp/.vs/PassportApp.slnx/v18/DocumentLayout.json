@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\passportapp\\src\\app\\passports\\display\\display.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|solutionrelative:src\\app\\passports\\display\\display.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\passportapp\\src\\app\\services\\passport.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|solutionrelative:src\\app\\services\\passport.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\passportapp\\src\\app\\passports\\display\\display.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|solutionrelative:src\\app\\passports\\display\\display.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\passportapp\\src\\app\\passports\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|solutionrelative:src\\app\\passports\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\passportapp\\src\\app\\passports\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|solutionrelative:src\\app\\passports\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\csharp\\angular\\passportapp\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20506170-DDCE-0DB2-868A-D191C770903A}|PassportApp.esproj|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "display.component.html",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\passports\\display\\display.component.html",
+              "RelativeDocumentMoniker": "src\\app\\passports\\display\\display.component.html",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\passports\\display\\display.component.html",
+              "RelativeToolTip": "src\\app\\passports\\display\\display.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-24T05:06:43.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "display.component.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\passports\\display\\display.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\passports\\display\\display.component.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\passports\\display\\display.component.ts",
+              "RelativeToolTip": "src\\app\\passports\\display\\display.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-23T06:43:39.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "passport.service.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\services\\passport.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\passport.service.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\services\\passport.service.ts",
+              "RelativeToolTip": "src\\app\\services\\passport.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-23T06:28:32.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "register.component.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\passports\\register\\register.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\passports\\register\\register.component.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\passports\\register\\register.component.ts",
+              "RelativeToolTip": "src\\app\\passports\\register\\register.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-23T09:07:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "register.component.html",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\passports\\register\\register.component.html",
+              "RelativeDocumentMoniker": "src\\app\\passports\\register\\register.component.html",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\passports\\register\\register.component.html",
+              "RelativeToolTip": "src\\app\\passports\\register\\register.component.html",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-24T04:52:03.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\PassportApp\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-23T08:50:07.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

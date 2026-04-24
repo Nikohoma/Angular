@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PassportApp.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

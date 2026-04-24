@@ -1,0 +1,11 @@
+<h2 class="text-center">Home</h2>
+
+<div class="container">
+  <ul>
+    @for(j of jobs;track j.id){
+    <li>{{j.title}} {{j.company}} {{j.exp}}
+    <a class="btn btn-outline-primary"[routerLink]="['/job',j.id]">View</a>
+    </li>
+    }
+  </ul>
+</div>

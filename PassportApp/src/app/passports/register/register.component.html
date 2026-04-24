@@ -1,0 +1,93 @@
+<form #form="ngForm" autocomplete="off" (ngSubmit)="createPassport(form)">
+
+  <!-- ID -->
+  <div class="form-group mb-2">
+    <label class="text-success">ID</label>
+    <input type="text"
+           name="Id"
+           [(ngModel)]="srv.passportData.Id"
+           readonly
+           class="form-control bg-success-subtle text-success">
+  </div>
+
+  <!-- Holder Name -->
+  <div class="form-group mb-2">
+    <div class="input-group">
+      <span class="input-group-text bg-white">
+        <i class="bi bi-person-bounding-box"
+           [class.text-success]="HolderName.valid"
+           [class.text-danger]="HolderName.invalid && HolderName.touched"></i>
+      </span>
+      <input name="HolderName"
+             #HolderName="ngModel"
+             [(ngModel)]="srv.passportData.HolderName"
+             placeholder="Passport Holder Name"
+             class="form-control bg-success-subtle text-success"
+             required>
+    </div>
+  </div>
+
+  <!-- Passport Number -->
+  <div class="form-group mb-2">
+    <div class="input-group">
+      <span class="input-group-text bg-white">
+        <i class="bi bi-0-square"
+           [class.text-success]="PassportNumber.valid"
+           [class.text-danger]="PassportNumber.invalid && PassportNumber.touched"></i>
+      </span>
+      <input name="PassportNumber"
+             #PassportNumber="ngModel"
+             [(ngModel)]="srv.passportData.PassportNumber"
+             placeholder="Passport Number"
+             class="form-control bg-success-subtle text-success"
+             required
+             minlength="10"
+             maxlength="10">
+    </div>
+  </div>
+
+  <!-- Expiry Date -->
+  <div class="form-group mb-2">
+    <div class="input-group">
+      <span class="input-group-text bg-white">
+        <i class="bi bi-calendar2-week"
+           [class.text-success]="ExpiryDate.valid"
+           [class.text-danger]="ExpiryDate.invalid && ExpiryDate.touched"></i>
+      </span>
+      <input type="date"
+             name="ExpiryDate"
+             #ExpiryDate="ngModel"
+             [(ngModel)]="srv.passportData.ExpiryDate"
+             class="form-control bg-success-subtle text-success"
+             required>
+    </div>
+  </div>
+
+  <!-- PPO Code -->
+  <div class="form-group mb-3">
+    <div class="input-group">
+      <span class="input-group-text bg-white">
+        <i class="bi bi-pin-map"
+           [class.text-success]="PPOCode.valid"
+           [class.text-danger]="PPOCode.invalid && PPOCode.touched"></i>
+      </span>
+      <input name="PPOCode"
+             #PPOCode="ngModel"
+             [(ngModel)]="srv.passportData.PPOCode"
+             placeholder="PPO Code (6 digits)"
+             class="form-control bg-success-subtle text-success"
+             required
+             minlength="6"
+             maxlength="6">
+    </div>
+  </div>
+
+  <!-- Button -->
+  <button class="btn btn-lg btn-outline-success w-100"
+          type="submit"
+          [disabled]="form.invalid">
+    <i class="bi bi-database-up"></i>
+    {{ srv.passportData.Id === 0 ? 'Create Passport' : 'Update Passport' }}
+  </button>
+
+</form>
