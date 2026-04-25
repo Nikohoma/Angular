@@ -1,0 +1,15 @@
+<div class="container py-5">
+  <header class="text-center mb-5 border-bottom pb-3 bg-success-subtle">
+    <h1 class="display-4 text-success text-decoration-underline fw-bold">{{ title }}</h1>
+    <h3 class="text-muted">Trainer: <span class="text-dark">{{instructor}}</span></h3>
+  </header>
+
+  <div class="row">
+    <div class="col-md-4 mb-4">
+      <app-course-add (courseAdded)="onCourseAdded($event)"></app-course-add>
+    </div>
+    <div class="col-md-8">
+      <app-course-list [courses]="courses" (courseDeleted)="onCourseDeleted($event)"></app-course-list>
+    </div>
+  </div>
+</div>

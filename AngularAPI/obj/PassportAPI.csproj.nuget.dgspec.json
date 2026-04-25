@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj": {}
+    "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj": {
+    "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj",
+        "projectUniqueName": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj",
         "projectName": "PassportAPI",
-        "projectPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj",
+        "projectPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj",
         "packagesPath": "C:\\Users\\nikhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\obj\\",
+        "outputPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ho6zxcOL4l8=",
+  "dgSpecHash": "iqAQXlNGGis=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj",
+  "projectFilePath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikhi\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\nikhi\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -141,9 +141,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "PassportAPI depends on NuGet.Packaging (>= 6.12.2) but NuGet.Packaging 6.12.2 was not found. NuGet.Packaging 6.12.4 was resolved instead.",
-      "projectPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj",
+      "projectPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj",
+      "filePath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -153,9 +153,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Packaging' 6.12.4 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj",
+      "projectPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj",
+      "filePath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -165,9 +165,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj",
+      "projectPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\csharp\\Angular\\AngularAPI\\PassportAPI.csproj",
+      "filePath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\AngularAPI\\PassportAPI.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net10.0"

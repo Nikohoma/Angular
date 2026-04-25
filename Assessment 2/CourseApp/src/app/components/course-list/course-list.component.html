@@ -1,0 +1,39 @@
+<div class="card shadow-sm border-0">
+  <div class="card-header bg-white border-bottom-0 pt-4 pb-2">
+    <h3 class="mb-0 text-dark fw-bold">Available Courses</h3>
+  </div>
+  <div class="card-body">
+    <div class="table-responsive">
+      <table class="table table-hover table-striped align-middle border">
+        <thead class="table-dark">
+          <tr>
+            <th scope="col" class="py-3 px-3">S.No.</th>
+            <th scope="col" class="py-3">Title</th>
+            <th scope="col" class="py-3">Instructor</th>
+            <th scope="col" class="py-3">Duration</th>
+            <th scope="col" class="py-3 text-end px-3">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let course of courses; let i = index">
+            <th scope="row" class="px-3">{{ i + 1 }}</th>
+            <td class="fw-semibold text-primary">{{ course.title }}</td>
+            <td><span class="text-muted">{{ course.instructor }}</span></td>
+            <td><span class="badge bg-secondary rounded-pill px-3 py-2">{{ course.duration }} hrs</span></td>
+            <td class="text-end px-3">
+              <button class="btn btn-sm btn-danger px-3 shadow-sm" (click)="onDelete(course.id)">
+                Delete
+              </button>
+            </td>
+          </tr>
+          <tr *ngIf="courses.length === 0">
+            <td colspan="5" class="text-center py-5 text-muted bg-light">
+              <p class="fs-5 mb-1 fw-semibold">No courses available yet.</p>
+              <small>Add your first course using the form!</small>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
