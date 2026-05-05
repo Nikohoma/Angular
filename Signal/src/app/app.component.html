@@ -1,0 +1,9 @@
+<div class="container">
+  <h2 class="text-center">Signal in Angular Example</h2>
+  <input type="text" class="form-control" placeholder="Search Employee" (input)="updateSearch($event)" >
+  <ul class="bg-primary text-white">
+    @for(e of filteredEmps();track e){
+      <li>{{e}}</li>
+    }
+  </ul>
+</div>

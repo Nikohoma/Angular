@@ -1,0 +1,15 @@
+<h1 class="text-center bg-success">Asynchronous</h1>
+
+<h3>Subscribing the observable</h3>
+<div class="container">
+  @for(r of res;track r){
+    <p>{{r}}</p>
+  }
+</div>
+
+<div class="container">
+  <form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <input type="text" formControlName="username" />
+    <button type="submit">Submit</button>
+  </form>
+</div>

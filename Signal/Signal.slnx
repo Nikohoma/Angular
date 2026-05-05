@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Signal.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

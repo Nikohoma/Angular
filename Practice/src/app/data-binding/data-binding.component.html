@@ -1,0 +1,61 @@
+<h1 class="text-center bg-success">Data binding</h1>
+
+<!--Two way Data binding: Two-way data binding is basically syncing your UI and your code both ways—so when one changes,
+  the other updates automatically.-->
+<input [(ngModel)]="name" />
+<p>{{name}}</p>
+<button (click)="greet()">Greet</button>
+
+
+<li>-----------------------------------------------------xxxxxxxxxx------------------------------------------</li>
+
+<!--Directives are classes that add additional behavior to elements in your Angular applications.
+  Types:
+  - Structural (*ngIf, *ngFor)
+  - Attribute (ngClass)
+  -Component
+  -Custom
+ -->
+<!--Structural [*ngIf/*ngFor]: Add or remove DOM-->
+<h3 class="text-center">Structural Directives</h3>
+
+<div class="card">
+  <h4 *ngIf="isVisible" class="text-center">isVisible is True!</h4>
+  <div class="text-center">
+    <button (click)="isVisible=!isVisible"
+            class="btn btn-outline-primary w-50">
+      Switch isVisible
+    </button>
+  </div>
+</div>
+
+<div class="text-center">
+  <h2 class="text-center">Names : </h2>
+
+  <ul class="d-inline-block">
+    @for(n of names;track n){
+    <li>{{n}}</li>
+    }
+
+  </ul>
+</div>
+
+<li>-----------------------------------------------------xxxxxxxxxxx----------------------------------------</li>
+<!--Attribute Directive [ngClass/ngStyle]: An attribute directive is something that changes the appearance or behavior of an existing HTML element.-->
+
+<h3 class="text-center">Attribute Directives</h3>
+
+<div [ngStyle]="{color: 'red'}">Hello</div>
+<p [ngClass]="{ 'text-danger': true }">Error</p>
+
+<p [ngClass]="{ 'text-danger': isError, 'text-success': !isError }" class="text-center">
+  {{ isError ? 'Error' : 'Success' }}
+</p>
+
+<div class="text-center">
+  <button class="btn btn-warning" (click)="isError=!isError">Switch</button>
+</div>
+
+<li>-----------------------------------------------------xxxxxxxxxxx----------------------------------------</li>
+<h3 class="text-center">Custom Directive</h3>
+<p class="text-center" appHighlight>Hover Here!</p>

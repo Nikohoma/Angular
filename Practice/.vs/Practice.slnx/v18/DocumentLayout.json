@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB68A618-B5C0-9519-62F8-3AA49DD6089E}|Practice.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\capgemini training\\angular\\practice\\src\\app\\async\\async.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{CB68A618-B5C0-9519-62F8-3AA49DD6089E}|Practice.esproj|solutionrelative:src\\app\\async\\async.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB68A618-B5C0-9519-62F8-3AA49DD6089E}|Practice.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\capgemini training\\angular\\practice\\src\\app\\async\\async.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB68A618-B5C0-9519-62F8-3AA49DD6089E}|Practice.esproj|solutionrelative:src\\app\\async\\async.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "async.component.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\Practice\\src\\app\\async\\async.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\async\\async.component.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\Practice\\src\\app\\async\\async.component.ts",
+              "RelativeToolTip": "src\\app\\async\\async.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-03T16:20:41.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "async.component.html",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\Practice\\src\\app\\async\\async.component.html",
+              "RelativeDocumentMoniker": "src\\app\\async\\async.component.html",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\Practice\\src\\app\\async\\async.component.html",
+              "RelativeToolTip": "src\\app\\async\\async.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-03T16:19:58.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

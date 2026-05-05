@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\Employees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5A59-72E3-F8C6-9CE1-56A5D46A8042}|..\\EmployeeApp\\EmployeeApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\capgemini training\\angular\\employeeapp\\src\\app\\employees\\update\\update.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5A59-72E3-F8C6-9CE1-56A5D46A8042}|..\\EmployeeApp\\EmployeeApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\capgemini training\\angular\\employeeapp\\src\\app\\services\\employee-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5A59-72E3-F8C6-9CE1-56A5D46A8042}|..\\EmployeeApp\\EmployeeApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\capgemini training\\angular\\employeeapp\\src\\app\\employees\\update\\update.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5A59-72E3-F8C6-9CE1-56A5D46A8042}|..\\EmployeeApp\\EmployeeApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\capgemini training\\angular\\employeeapp\\src\\app\\employees\\details\\details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5A59-72E3-F8C6-9CE1-56A5D46A8042}|..\\EmployeeApp\\EmployeeApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\capgemini training\\angular\\employeeapp\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC5A59-72E3-F8C6-9CE1-56A5D46A8042}|..\\EmployeeApp\\EmployeeApp.esproj|c:\\users\\nikhi\\onedrive\\pictures\\documents\\capgemini training\\angular\\employeeapp\\src\\app\\employees\\details\\details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "update.component.html",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\employees\\update\\update.component.html",
+              "RelativeDocumentMoniker": "..\\EmployeeApp\\src\\app\\employees\\update\\update.component.html",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\employees\\update\\update.component.html",
+              "RelativeToolTip": "..\\EmployeeApp\\src\\app\\employees\\update\\update.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-04T13:40:25.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employee-service.service.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\services\\employee-service.service.ts",
+              "RelativeDocumentMoniker": "..\\EmployeeApp\\src\\app\\services\\employee-service.service.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\services\\employee-service.service.ts",
+              "RelativeToolTip": "..\\EmployeeApp\\src\\app\\services\\employee-service.service.ts",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-04T13:35:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "update.component.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\employees\\update\\update.component.ts",
+              "RelativeDocumentMoniker": "..\\EmployeeApp\\src\\app\\employees\\update\\update.component.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\employees\\update\\update.component.ts",
+              "RelativeToolTip": "..\\EmployeeApp\\src\\app\\employees\\update\\update.component.ts",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-04T12:59:30.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "details.component.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\employees\\details\\details.component.ts",
+              "RelativeDocumentMoniker": "..\\EmployeeApp\\src\\app\\employees\\details\\details.component.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\employees\\details\\details.component.ts",
+              "RelativeToolTip": "..\\EmployeeApp\\src\\app\\employees\\details\\details.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-04T13:37:59.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "..\\EmployeeApp\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "..\\EmployeeApp\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-04T13:07:03.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "details.component.html",
+              "DocumentMoniker": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\employees\\details\\details.component.html",
+              "RelativeDocumentMoniker": "..\\EmployeeApp\\src\\app\\employees\\details\\details.component.html",
+              "ToolTip": "C:\\Users\\nikhi\\OneDrive\\Pictures\\Documents\\Capgemini Training\\Angular\\EmployeeApp\\src\\app\\employees\\details\\details.component.html",
+              "RelativeToolTip": "..\\EmployeeApp\\src\\app\\employees\\details\\details.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-04T13:03:33.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
